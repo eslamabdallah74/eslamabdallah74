@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/eslamabdallah301/eslamabdallah301/blob/master/assets/studying-windy.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://c.tenor.com/YEEY0cnEawQAAAAC/anime-love.gif">
 </div>
 
 </br>
