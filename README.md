@@ -73,6 +73,9 @@ If you want to reach out to me about anything, we can talk , discuss anything ðŸ
 <a href="https://www.instagram.com/yomi_74/">
  <img align="left" alt="Gmail" width="130" hight="100" src="icons/instagram.svg" />
 </a>
+</br>
+</br>
+</br>
 <a href="https://www.linkedin.com/in/eslam-abdallah-882480170/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="icons/linkedin.svg" />
 </br>
