@@ -36,10 +36,19 @@
 
 
 <p align="center">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-
+    <img src="icons/html.svg" alt="html" width="120" hight="50">
+    <img src="icons/css3.svg" alt="css3" width="120" hight="50">
+    <img src="icons/bootstrap.svg" alt="bootstrap" width="120" hight="50">
+    <img src="icons/jquery.svg" alt="jquery" width="120" hight="50">
+    <img src="icons/sass.svg" alt="sass" width="120" hight="50">
+    <img src="icons/php.svg" alt="php" width="120" hight="50">
+    <img src="icons/js.svg" alt="js" width="120" hight="50">
 </p>
-
+<br>
+<p align="center">
+    <img src="icons/laravel.svg" alt="laravel" width="120" hight="50">
+    <img src="icons/vue.svg" alt="vue" width="120" hight="50">
+</p>
 
 </br>
 </br>
