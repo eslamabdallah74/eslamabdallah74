@@ -68,10 +68,13 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="eslamabdallah301@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="icons/gmail.svg" />
+</a>
+<a href="https://www.instagram.com/yomi_74/">
+ <img align="left" alt="Gmail" width="130" hight="100" src="icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/eslam-abdallah-882480170/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="icons/linkedin.svg" />
 </br>
 </br>
 </br>
