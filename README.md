@@ -29,16 +29,18 @@
 </br>
 
 
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
 
-<p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="icons/icon++html+icon-1320194800994962643.png" alt="html" width="120" hight="50">
+<p align="center">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
 
 </p>
+
+
 </br>
 </br>
 </br>
