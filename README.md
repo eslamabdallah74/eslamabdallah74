@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/studying-windy.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="assets/welcome.gif">
 </div>
 
 </br>
