@@ -1,7 +1,7 @@
 # Hello, I'm Eslam Abdallah 👋
 
 <div align="center">
-  <img hight="100" width="700" style='hight:100px;' alt="GIF" align="center" src="assets/original.gif">
+  <img hight="100" width="900" style='hight:100px;' alt="GIF" align="center" src="assets/original.gif">
 </div>
 
 <br>
@@ -53,9 +53,6 @@ If you'd like to connect or have any questions, feel free to reach out. I'm open
 
 <a href="mailto:eslamabdallah301@gmail.com">
   <img align="left" alt="Gmail" width="130" height="100" src="icons/gmail.svg" />
-</a>
-<a href="https://www.instagram.com/yomi_74/">
-  <img align="left" alt="Instagram" width="130" height="100" src="icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/eslam-abdallah-882480170/">
   <img align="left" alt="LinkedIn" width="150" height="100" src="icons/linkedin.svg" />
