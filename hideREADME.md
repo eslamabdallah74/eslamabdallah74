@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <div align="center">
-<img hight="100" width="700" style='hight:100px;' alt="GIF" align="center" src="assets/original.gif">
+<img hight="100" width="900" style='hight:100px;' alt="GIF" align="center" src="assets/original.gif">
 </div>
 
 </br>
@@ -13,7 +13,6 @@
 
 ### -1996 🇪🇬 , Bachelor of Information Systems and administrative
 
-<img hight="400" width="500" alt="GIF" align="right" src="assets/Green.gif">
 
 ### - Learning :
 - ✨ laravel
