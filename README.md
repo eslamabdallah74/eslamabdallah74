@@ -1,103 +1,75 @@
-# Hello there 👋
+# Hello, I'm Eslam Abdallah 👋
 
 <div align="center">
-<img hight="100" width="900" style='hight:100px;' alt="GIF" align="center" src="assets/original.gif">
+  <img height="100" width="900" style="height:100px;" alt="GIF" align="center" src="assets/original.gif">
 </div>
 
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
+# About Me 💬
 
-# About ME 💬 :
+### - Born in 1996 🇪🇬 | Bachelor's Degree in Information Systems and Administration
 
-### -1996 🇪🇬 , Bachelor of Information Systems and administrative
+I am a software developer with a passion for writing **clean, maintainable code**. My focus is on creating scalable, well-structured applications that are easy to understand and optimize. I believe in continuously refining my coding practices and improving the way I write code to ensure high-quality results. 
 
+Currently, I'm refining my approach to **clean code practices**, focusing on clarity, efficiency, and maintainability. My goal is to always write code that is both **functional** and **elegant**, following best practices while keeping the process enjoyable and engaging.
 
-### - Learning :
-- ✨ laravel
-- ✨ Vue.js
+### Current Focus:
+- Writing **clean, readable code** with an emphasis on best practices
+- Building scalable, maintainable software solutions
+- Continuously improving problem-solving and design skills
+- Streamlining development workflows and automating tasks
 
-### - Hobbies : 
-- ✨ Gaming lover
-- ✨ Anime watcher
-- ✨ football player or i used to 😆
+<br>
+<br>
+<br>
 
-</br>
-</br>
-</br>
+# Technical Skills 👨‍💻 🛠
 
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
+Here are the tools and technologies I work with to deliver high-quality solutions:
 
 <p align="center">
-    <img src="icons/html.svg" alt="html" width="120" hight="50">
-    <img src="icons/css3.svg" alt="css3" width="120" hight="50">
-    <img src="icons/bootstrap.svg" alt="bootstrap" width="120" hight="50">
-    <img src="icons/jquery.svg" alt="jquery" width="120" hight="50">
-    <img src="icons/sass.svg" alt="sass" width="120" hight="50">
-    <img src="icons/php.svg" alt="php" width="120" hight="50">
-    <img src="icons/js.svg" alt="js" width="120" hight="50">
+  <img src="icons/html.svg" alt="HTML" width="120" height="50">
+  <img src="icons/css3.svg" alt="CSS3" width="120" height="50">
+  <img src="icons/bootstrap.svg" alt="Bootstrap" width="120" height="50">
+  <img src="icons/jquery.svg" alt="jQuery" width="120" height="50">
+  <img src="icons/sass.svg" alt="Sass" width="120" height="50">
+  <img src="icons/php.svg" alt="PHP" width="120" height="50">
+  <img src="icons/js.svg" alt="JavaScript" width="120" height="50">
 </p>
 <br>
 <p align="center">
-    <img src="icons/laravel.svg" alt="laravel" width="120" hight="50">
-    <img src="icons/vue.svg" alt="vue" width="120" hight="50">
+  <img src="icons/laravel.svg" alt="Laravel" width="120" height="50">
+  <img src="icons/vue.svg" alt="Vue.js" width="120" height="50">
 </p>
 
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
+# Contact Me 📬
 
+If you'd like to connect or have any questions, feel free to reach out. I'm open to discussing collaborations, opportunities, or sharing insights on clean code practices.
 
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="assets/anime-love.gif">
-
-
-If you want to reach out to me about anything, we can talk , discuss anything 🙏.
-
-<a href="eslamabdallah301@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="icons/gmail.svg" />
+<a href="mailto:eslamabdallah301@gmail.com">
+  <img align="left" alt="Gmail" width="130" height="100" src="icons/gmail.svg" />
 </a>
 <a href="https://www.instagram.com/yomi_74/">
- <img align="left" alt="Gmail" width="130" hight="100" src="icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="130" height="100" src="icons/instagram.svg" />
 </a>
-</br>
-</br>
-</br>
 <a href="https://www.linkedin.com/in/eslam-abdallah-882480170/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="icons/linkedin.svg" />
-</br>
-</br>
-</br>
+  <img align="left" alt="LinkedIn" width="150" height="100" src="icons/linkedin.svg" />
 </a>
- </p>
- 
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 
-
-
-<p align="center" >  
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=eslamabdallah74&&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=eslamabdallah74&&show_icons=true&theme=radical" />
   </a>
-  </p>
+</p>
 
-*************
