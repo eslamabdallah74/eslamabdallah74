@@ -1,7 +1,7 @@
 # Hello, I'm Eslam Abdallah 👋
 
 <div align="center">
-  <img height="100" width="900" style="height:100px;" alt="GIF" align="center" src="assets/original.gif">
+  <img height="900" width="900" style="height:100px;" alt="GIF" align="center" src="assets/original.gif">
 </div>
 
 <br>
