@@ -34,8 +34,6 @@ Here are the tools and technologies I work with to deliver high-quality solution
   <img src="icons/html.svg" alt="HTML" width="120" height="50">
   <img src="icons/css3.svg" alt="CSS3" width="120" height="50">
   <img src="icons/bootstrap.svg" alt="Bootstrap" width="120" height="50">
-  <img src="icons/jquery.svg" alt="jQuery" width="120" height="50">
-  <img src="icons/sass.svg" alt="Sass" width="120" height="50">
   <img src="icons/php.svg" alt="PHP" width="120" height="50">
   <img src="icons/js.svg" alt="JavaScript" width="120" height="50">
 </p>
